@@ -3,4 +3,4 @@
 !/src/
 !/public/
 
-firebaseConfig.tsx*
+firebaseConfig.ts*
