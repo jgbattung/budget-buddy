@@ -1,11 +1,12 @@
 import React from 'react';
-import { Typography } from '@mui/material';
+import Box from '@material-ui/core/Box';
+import Sidebar from './components/Layout/Sidebar';
 
 function App() {
   return (
-    <div className="App">
-      <Typography>HELLO</Typography>
-    </div>
+    <Box className="App">
+      <Sidebar />
+    </Box>
   );
 }
 
